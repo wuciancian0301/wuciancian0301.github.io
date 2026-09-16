@@ -23,11 +23,11 @@ repository               : "wuciancian0301/wuciancian0301.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "DSC_0147.jpg"
   name             : "吴千千"
   pronouns         : # example: "she/her"  
   bio              : "我有两只猫"
-  location         : "南京"
+  location         : "台北/南京"
   employer         : "南京大学"
   uri              : # URL
   email            : "19708862181@163.com" 
