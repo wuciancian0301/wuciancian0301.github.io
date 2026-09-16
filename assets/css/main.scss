@@ -51,10 +51,17 @@ body {
   display: none;
 }
 
-.author__avatar img {
+div.author__avatar {
   width: 200px !important;
   height: 200px !important;
+  overflow: hidden !important;
   border-radius: 50% !important;
-  object-fit: cover;
+}
+
+div.author__avatar img {
+  width: 100% !important;
+  height: 100% !important;
+  max-width: none !important;
+  object-fit: cover !important;
   object-position: center 25%;
 }
