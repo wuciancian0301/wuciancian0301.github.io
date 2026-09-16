@@ -24,13 +24,13 @@ repository               : "wuciancian0301/wuciancian0301.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "吴千千"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "上班族重返校园"
+  location         : "南京"
+  employer         : "南京大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "19708862181@163.com" 
 
   # Academic websites
   academia         : # URL
