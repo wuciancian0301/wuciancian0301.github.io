@@ -17,7 +17,7 @@ main:
 # - title: "Teaching"
 #   url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "PORTFOLIO"
     url: /portfolio/
         
 # - title: "Blog Posts"
@@ -26,7 +26,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Contact"
+  - title: "CONTACT"
     url: /contact/
     
   # - title: "CV"
