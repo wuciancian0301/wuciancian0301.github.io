@@ -52,19 +52,19 @@ body {
 }
 
 div.author__avatar {
-  width: 280px !important;
-  height: 280px !important;
-  min-width: 280px !important;
-  max-width: 280px !important;
+  width: 300px !important;
+  height: 200px !important;
+  min-width: 300px !important;
+  max-width: 300px !important;
   overflow: hidden !important;
-  border-radius: 50% !important;
+  border-radius: 0 !important;
 }
 
 div.author__avatar > img.author__avatar {
-  width: 280px !important;
-  height: 280px !important;
+  width: 100% !important;
+  height: 100% !important;
   max-width: none !important;
   border-radius: 0 !important;
   object-fit: cover !important;
-  object-position: center 70% !important;
+  object-position: center center !important;
 }
