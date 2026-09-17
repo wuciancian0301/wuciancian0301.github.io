@@ -33,19 +33,31 @@ EDUCATION
 WORK
 ======
 
-### 台北对外贸易发展协会 项目经理 2024/11-2026/08
+<div style="margin: 28px 0 10px;">
+  <strong style="font-size: 1.25em;">台北对外贸易发展协会</strong><br>
+  <span>项目经理｜2024/11–2026/08</span>
+</div>
+
   - 营销项目规划执行
   - 媒体曝光内容企划
   - 广告宣传素材设计
   - 在线培训课程制作
 
-### 时报出版 编辑 2022/08-2023/05
+<div style="margin: 28px 0 10px;">
+  <strong style="font-size: 1.25em;">时报出版</strong><br>
+  <span>编辑｜2022/08-2023/05</span>
+</div>
+
   - 稿件编辑校对
   - 新书宣传规划
   - 作者题材开发
   - 公关事务执行
 
-### 台北电影节 媒宣组实习生 2022/04-2022/07
+<div style="margin: 28px 0 10px;">
+  <strong style="font-size: 1.25em;">台北电影节</strong><br>
+  <span>媒宣组实习生｜2022/04-2022/07</span>
+</div>
+
   - 社群媒体营销
   - 活动新闻撰写
   - 宣传影像拍摄
