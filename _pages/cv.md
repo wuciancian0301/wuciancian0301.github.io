@@ -46,7 +46,7 @@ redirect_from:
 
   <img src="{{ site.baseurl }}/images/9.jpg"
        alt="待领养猫咪"
-       style="display: block; width: 100%; height: 320px; object-fit: cover; object-position: center 80%;">
+       style="display: block; width: 100%; height: 320px; object-fit: cover; object-position: center 70%;">
 
   <div style="padding: 28px;">
     <h2 style="margin-top: 0;">小点</h2>
