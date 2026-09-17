@@ -1,4 +1,4 @@
-# Welcome to 吴千千!
+# Welcome to 关于吴千千!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "吴千千"
+title                    : "关于吴千千"
 title_separator          : "-"
 name                     : &name "吴千千"
 description              : &description "吴千千的个人网站"   # Update this with a general description of your site, this is the default if not overridden by a page
