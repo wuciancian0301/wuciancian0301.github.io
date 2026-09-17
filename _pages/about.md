@@ -16,6 +16,7 @@ It would seem to be something very erratic, very undependable—now to be found 
 
 ARTICAL
 ======
+
 - [徜徉於閱讀的影像長河－2022台北電影節文學電影主題推薦](https://www.unitas.me/?p=34361)
 
 - [台北電影節映後直送：歡迎光臨二代咖啡](https://www.facebook.com/177021906582/posts/pfbid02RkKdJj5Vt95vXCM16HKV7bjWAWGxUiRV6Vh5wEjhscjWpP6VPuKTwzUM2JqRhahyl/)
@@ -26,10 +27,25 @@ ARTICAL
 
 - [鳴個喇叭文化工作室 從緬甸街開始認識緬甸](https://news.cts.com.tw/vita/campus/202104/202104262040084.html)
 
+
 DESIGN
 ======
+
 ![文宣設計]({{ site.baseurl }}/images/聖誕新年賀卡.png)
-2024年聖誕及2025年新年企業賀卡設計
+
+2024年聖誕及2025年新年企業賀卡
+
+![文宣設計]({{ site.baseurl }}/images/1140320台北場說明會EDM.png)
+
+2025年貿易論壇邀請函
+
+![文宣設計]({{ site.baseurl }}/images/線上診斷抽獎EDM.png)
+
+線上抽獎活動廣告
+
+![文宣設計]({{ site.baseurl }}/images/2.png)
+
+數位貿易計畫廣告
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
