@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-“What is meant by “reality”? It would seem to be something very erratic, very undependable—now to be found in a dusty road, now in a scrap of newspaper in the street, now a daffodil in the sun.
+What is meant by “reality”?
+======
+
+It would seem to be something very erratic, very undependable—now to be found in a dusty road, now in a scrap of newspaper in the street, now a daffodil in the sun.
 
 ― Virginia Woolf, A Room of One’s Own
 
