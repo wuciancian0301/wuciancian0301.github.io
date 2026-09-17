@@ -30,7 +30,7 @@ DESIGN
 ======
 
 <a href="{{ site.baseurl }}/images/聖誕新年賀卡.png" target="_blank" rel="noopener">
-  <img src="{{ site.baseurl }}/images/design-01.png"
+  <img src="{{ site.baseurl }}/images/聖誕新年賀卡.png"
        alt="文宣設計"
        style="width: 360px; max-width: 100%; height: auto;">
 </a>
