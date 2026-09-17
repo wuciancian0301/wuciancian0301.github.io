@@ -79,9 +79,18 @@ div.author__avatar > img.author__avatar {
 
 .author__urls.social-icons {
   padding-left: 0 !important;
-  text-align: center !important;
 }
 
-.author__urls.social-icons li {
+.author__urls.social-icons li,
+.author__urls.social-icons li a {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+  text-align: left !important;
+}
+
+.author__urls.social-icons li i {
+  width: 28px !important;
   text-align: center !important;
+  margin-right: 10px !important;
 }
