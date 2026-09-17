@@ -50,22 +50,3 @@ body {
 #theme-toggle {
   display: none;
 }
-
-div.author__avatar {
-  display: block !important;
-  width: 300px !important;
-  height: 200px !important;
-  min-width: 300px !important;
-  max-width: 300px !important;
-  overflow: hidden !important;
-  border-radius: 0 !important;
-}
-
-div.author__avatar > img.author__avatar {
-  width: 100% !important;
-  height: 100% !important;
-  max-width: none !important;
-  border-radius: 0 !important;
-  object-fit: cover !important;
-  object-position: 80% center !important;
-}
