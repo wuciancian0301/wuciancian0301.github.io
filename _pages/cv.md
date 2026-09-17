@@ -11,8 +11,8 @@ redirect_from:
 <div style="max-width: 620px; margin: 32px 0; background: #FFFFFF; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.10);">
 
   <img src="{{ site.baseurl }}/images/8.jpg"
-       alt="待领养猫咪"
-       style="display: block; width: 100%; height: 320px; object-fit: cover;">
+     alt="待领养猫咪"
+     style="display: block; width: 100%; height: 320px; object-fit: cover; object-position: center 30%;">     
 
   <div style="padding: 28px;">
     <h2 style="margin-top: 0;">猫咪</h2>
