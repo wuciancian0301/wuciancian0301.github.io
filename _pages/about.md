@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "关于吴千千"
+title: "ABOUT ME"
 author_profile: true
 redirect_from: 
   - /about/
