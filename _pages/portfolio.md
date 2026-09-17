@@ -19,7 +19,7 @@ EDUCATION
 </div>
 
 <div style="display: flex; align-items: center; gap: 14px; margin: 18px 0;">
-  <img src="{{ site.baseurl }}/images/7.png"
+  <img src="{{ site.baseurl }}/images/7.webp"
        alt="辅仁大学校徽"
        style="width: 52px; height: 52px; object-fit: contain;">
   <div>
