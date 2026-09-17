@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "NOTICE"
+title: "ADOPT"
 permalink: /notice/
 author_profile: true
 redirect_from:
@@ -8,58 +8,36 @@ redirect_from:
   - /cv/
 ---
 
-{% include base_path %}
+<div style="max-width: 620px; margin: 32px 0; background: #FFFFFF; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.10);">
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+  <img src="{{ site.baseurl }}/images/8.jpg"
+       alt="待领养猫咪"
+       style="display: block; width: 100%; height: 320px; object-fit: cover;">
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  <div style="padding: 28px;">
+    <h2 style="margin-top: 0;">猫咪</h2>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+    <p>
+      性格亲人、活泼，健康状况良好，领养需不关笼、不放养且满20岁。
+    </p>
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+    <table style="width: 100%; border-collapse: collapse; background: #FFFFFF;">
+      <tr>
+        <th style="width: 35%; padding: 12px; text-align: left; border-bottom: 1px solid #E5E7EB;">性別</th>
+        <td style="padding: 12px; border-bottom: 1px solid #E5E7EB;">女生</td>
+      </tr>
+      <tr>
+        <th style="padding: 12px; text-align: left; border-bottom: 1px solid #E5E7EB;">年龄</th>
+        <td style="padding: 12px; border-bottom: 1px solid #E5E7EB;">不到1岁</td>
+      </tr>
+      <tr>
+        <th style="padding: 12px; text-align: left; border-bottom: 1px solid #E5E7EB;">所在地</th>
+        <td style="padding: 12px; border-bottom: 1px solid #E5E7EB;">台北市</td>
+      </tr>
+      <tr>
+        <th style="padding: 12px; text-align: left; border-bottom: 1px solid #E5E7EB;">健康状况</th>
+        <td style="padding: 12px; border-bottom: 1px solid #E5E7EB;">已驱虫、施打基本疫苗</td>
+      </tr>
+    </table>
+  </div>
+</div>
