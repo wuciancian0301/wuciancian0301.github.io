@@ -19,10 +19,9 @@ ARTICAL
 
 - [台北電影節映後直送：台北電影獎短片Ⅱ](https://www.facebook.com/177021906582/posts/pfbid032D3mz45puGE76nVB1xK2vSdKV1WBUvfefy8kZQEatHTBkKBfRDLBgp616x2Gm78Cl/)
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+- [小朋友文化 文字讓我們同理彼此的不同](https://news.cts.com.tw/vita/campus/202106/202106042044957.html)
+
+- [鳴個喇叭文化工作室 從緬甸街開始認識緬甸](https://news.cts.com.tw/vita/campus/202104/202104262040084.html)
 
 DESIGN
 ======
