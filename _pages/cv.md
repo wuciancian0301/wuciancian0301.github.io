@@ -15,7 +15,7 @@ redirect_from:
        style="display: block; width: 100%; height: 320px; object-fit: cover; object-position: center 30%;">     
 
   <div style="padding: 28px;">
-    <h2 style="margin-top: 0;">猫咪</h2>
+    <h2 style="margin-top: 0;">波波</h2>
 
     <p>
       性格亲人、活泼，健康状况良好，领养需不关笼、不放养且满20岁。
