@@ -48,6 +48,10 @@ PUBLICATION
 
 [《營養師媽咪的健康寶寶飲食法》](https://play.google.com/store/books/details/%E7%87%9F%E9%A4%8A%E5%B8%AB%E5%AA%BD%E5%92%AA%E7%9A%84%E5%81%A5%E5%BA%B7%E5%AF%B6%E5%AF%B6%E9%A3%B2%E9%A3%9F%E6%B3%95?id=9wK9EAAAQBAJ&hl=zh)
 
+![出版編輯]({{ site.baseurl }}/images/4.jpeg)
 
+[《全家擇食指南》](https://play.google.com/store/books/details/%E9%82%B1%E9%8C%A6%E4%BC%B6_%E5%85%A8%E5%AE%B6%E6%93%87%E9%A3%9F%E6%8C%87%E5%8D%97_%E6%9C%80%E5%AE%8C%E6%95%B4%E7%9A%84%E9%A3%B2%E9%A3%9F%E8%A8%88%E7%95%AB_%E8%AE%93%E4%BD%A0%E7%98%A6_%E7%BE%8E_%E4%BA%AE_%E8%A3%A1%E5%A4%96%E5%85%BC%E9%A1%A7%E7%9A%84%E7%99%BE%E5%88%86%E7%99%BE%E5%81%A5%E5%BA%B7?id=2DmgEAAAQBAJ&hl=zh)
 
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+![出版編輯]({{ site.baseurl }}/images/5.webp)
+
+[《趣你的世界遺產》](https://www.amazon.com/dp/B0BXSQF97V?lv=shuf&channelId=425&plpRedirect=mhFallback)
