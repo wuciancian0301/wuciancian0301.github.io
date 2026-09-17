@@ -21,8 +21,6 @@ ARTICAL
 
 - [台北電影節映後直送：歡迎光臨二代咖啡](https://www.facebook.com/177021906582/posts/pfbid02RkKdJj5Vt95vXCM16HKV7bjWAWGxUiRV6Vh5wEjhscjWpP6VPuKTwzUM2JqRhahyl/)
 
-- [台北電影節映後直送：台北電影獎短片Ⅱ](https://www.facebook.com/177021906582/posts/pfbid032D3mz45puGE76nVB1xK2vSdKV1WBUvfefy8kZQEatHTBkKBfRDLBgp616x2Gm78Cl/)
-
 - [小朋友文化 文字讓我們同理彼此的不同](https://news.cts.com.tw/vita/campus/202106/202106042044957.html)
 
 - [鳴個喇叭文化工作室 從緬甸街開始認識緬甸](https://news.cts.com.tw/vita/campus/202104/202104262040084.html)
@@ -45,4 +43,11 @@ DESIGN
 
 PUBLICATION
 ======
+
+![出版編輯]({{ site.baseurl }}/images/3.jpeg)
+
+[《營養師媽咪的健康寶寶飲食法》](https://play.google.com/store/books/details/%E7%87%9F%E9%A4%8A%E5%B8%AB%E5%AA%BD%E5%92%AA%E7%9A%84%E5%81%A5%E5%BA%B7%E5%AF%B6%E5%AF%B6%E9%A3%B2%E9%A3%9F%E6%B3%95?id=9wK9EAAAQBAJ&hl=zh)
+
+
+
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
