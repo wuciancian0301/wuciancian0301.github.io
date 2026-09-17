@@ -41,7 +41,7 @@ author_profile: true
 
 <div style="margin: 24px 0; line-height: 1.6;">
   <strong style="font-size: 1.25em;">时报出版</strong><br>
-  <span>编辑｜2022/08 - 2023/05</span>
+  <span>编辑｜2022/08 – 2023/05</span>
 </div>
 
   - 稿件编辑校对
@@ -51,7 +51,7 @@ author_profile: true
 
 <div style="margin: 24px 0; line-height: 1.6;">
   <strong style="font-size: 1.25em;">台北电影节</strong><br>
-  <span>媒宣组实习生｜2022/04 - 2022/07</span>
+  <span>媒宣组实习生｜2022/04 – 2022/07</span>
 </div>
 
   - 社群媒体营销
