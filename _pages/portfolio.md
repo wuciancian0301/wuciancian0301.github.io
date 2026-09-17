@@ -5,13 +5,13 @@ permalink: /experience/
 author_profile: true
 ---
 
-## EDUCATION
+EDUCATION
 ======
 
 ### 南京大学 数字营销传播 2026-NOW
 ### 辅仁大学 新闻传播 2019-2023
 
-## WORK
+WORK
 ======
 
 ### 台北对外贸易发展协会 项目经理 2024/11-2026/08
