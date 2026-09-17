@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-<h2 style="margin: 16px 0;">EDUCATION</h2>
+<h2 style="font-size: 2.25em; margin: 16px 0; line-height: 1.2;">EDUCATION</h2>
 
 <div style="display: flex; align-items: center; gap: 14px; margin: 24px 0; line-height: 1.6;">
   <img src="{{ site.baseurl }}/images/6.webp"
@@ -27,7 +27,7 @@ author_profile: true
   </div>
 </div>
 
-<h2 style="margin: 16px 0;">WORK</h2>
+<h2 style="font-size: 2.25em; margin: 16px 0; line-height: 1.2;">WORK</h2>
 
 <div style="margin: 24px 0; line-height: 1.6;">
   <strong style="font-size: 1.25em;">台北对外贸易发展协会</strong><br>
