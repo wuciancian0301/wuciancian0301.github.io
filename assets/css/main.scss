@@ -51,10 +51,23 @@ body {
   display: none;
 }
 
-.author__avatar img {
-  width: 200px !important;
-  height: 200px !important;
+div.author__avatar {
+  display: block !important;
+  width: 280px !important;
+  height: 280px !important;
+  min-width: 280px !important;
+  max-width: 280px !important;
+  box-sizing: border-box !important;
+  overflow: hidden !important;
+  border: 3px solid #FFFFFF !important;
   border-radius: 50% !important;
-  object-fit: cover;
-  object-position: center 25%;
+}
+
+div.author__avatar > img.author__avatar {
+  width: 100% !important;
+  height: 100% !important;
+  max-width: none !important;
+  border-radius: 0 !important;
+  object-fit: cover !important;
+  object-position: 70% center !important;
 }
