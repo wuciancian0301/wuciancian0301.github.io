@@ -10,18 +10,25 @@ EDUCATION
 
 <div style="display: flex; align-items: center; gap: 14px; margin: 18px 0;">
   <img src="{{ site.baseurl }}/images/6.webp"
-       alt="南京大學校徽"
+       alt="南京大学校徽"
        style="width: 52px; height: 52px; object-fit: contain;">
   <div>
-    <strong>南京大學</strong><br>
-    數字營銷傳播｜2026–NOW
+    <strong>南京大学</strong><br>
+    数字营销传播｜2026–NOW
   </div>
 </div>
 
-### 南京大学 数字营销传播 2026-NOW
-### 辅仁大学 新闻传播 2019-2023
+<div style="display: flex; align-items: center; gap: 14px; margin: 18px 0;">
+  <img src="{{ site.baseurl }}/images/7.png"
+       alt="辅仁大学校徽"
+       style="width: 52px; height: 52px; object-fit: contain;">
+  <div>
+    <strong>辅仁大学</strong><br>
+    新闻传播｜2019–2023
+  </div>
+</div>
 
-<div style="margin-top: 64px;"></div>
+<div style="margin-top: 32px;"></div>
 
 WORK
 ======
