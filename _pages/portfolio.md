@@ -5,9 +5,9 @@ permalink: /experience/
 author_profile: true
 ---
 
-<h2 style="font-size: 2.25em; margin: 16px 0; line-height: 1.2;">EDUCATION</h2>
+<h2 style="font-size: 2em; margin: 16px 0; line-height: 1.2;">EDUCATION</h2>
 
-<div style="display: flex; align-items: center; gap: 14px; margin: 24px 0; line-height: 1.6;">
+<div style="display: flex; align-items: center; gap: 14px; margin: 16px 0; line-height: 1.6;">
   <img src="{{ site.baseurl }}/images/6.webp"
        alt="南京大学校徽"
        style="width: 52px; height: 52px; object-fit: contain;">
@@ -17,7 +17,7 @@ author_profile: true
   </div>
 </div>
 
-<div style="display: flex; align-items: center; gap: 14px; margin: 24px 0; line-height: 1.6;">
+<div style="display: flex; align-items: center; gap: 14px; margin: 16px 0; line-height: 1.6;">
   <img src="{{ site.baseurl }}/images/7.webp"
        alt="辅仁大学校徽"
        style="width: 52px; height: 52px; object-fit: contain;">
@@ -27,7 +27,7 @@ author_profile: true
   </div>
 </div>
 
-<h2 style="font-size: 2.25em; margin: 16px 0; line-height: 1.2;">WORK</h2>
+<h2 style="font-size: 2em; margin: 16px 0; line-height: 1.2;">WORK</h2>
 
 <div style="margin: 24px 0; line-height: 1.6;">
   <strong style="font-size: 1.25em;">台北对外贸易发展协会</strong><br>
