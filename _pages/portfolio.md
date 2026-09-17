@@ -5,10 +5,9 @@ permalink: /experience/
 author_profile: true
 ---
 
-EDUCATION
-======
+<h2 style="margin: 24px 0;">EDUCATION</h2>
 
-<div style="display: flex; align-items: center; gap: 14px; margin: 18px 0;">
+<div style="display: flex; align-items: center; gap: 14px; margin: 24px 0; line-height: 1.6;">
   <img src="{{ site.baseurl }}/images/6.webp"
        alt="南京大学校徽"
        style="width: 52px; height: 52px; object-fit: contain;">
@@ -18,7 +17,7 @@ EDUCATION
   </div>
 </div>
 
-<div style="display: flex; align-items: center; gap: 14px; margin: 18px 0;">
+<div style="display: flex; align-items: center; gap: 14px; margin: 24px 0; line-height: 1.6;">
   <img src="{{ site.baseurl }}/images/7.webp"
        alt="辅仁大学校徽"
        style="width: 52px; height: 52px; object-fit: contain;">
@@ -28,12 +27,9 @@ EDUCATION
   </div>
 </div>
 
-<div style="margin-top: 32px;"></div>
+<h2 style="margin: 24px 0;">WORK</h2>
 
-WORK
-======
-
-<div style="margin: 28px 0 10px;">
+<div style="margin: 24px 0; line-height: 1.6;">
   <strong style="font-size: 1.25em;">台北对外贸易发展协会</strong><br>
   <span>项目经理｜2024/11–2026/08</span>
 </div>
@@ -43,7 +39,7 @@ WORK
   - 广告宣传素材设计
   - 在线培训课程制作
 
-<div style="margin: 28px 0 10px;">
+<div style="margin: 24px 0; line-height: 1.6;">
   <strong style="font-size: 1.25em;">时报出版</strong><br>
   <span>编辑｜2022/08-2023/05</span>
 </div>
@@ -53,7 +49,7 @@ WORK
   - 作者题材开发
   - 公关事务执行
 
-<div style="margin: 28px 0 10px;">
+<div style="margin: 24px 0; line-height: 1.6;">
   <strong style="font-size: 1.25em;">台北电影节</strong><br>
   <span>媒宣组实习生｜2022/04-2022/07</span>
 </div>
